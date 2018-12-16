@@ -1,0 +1,8 @@
+D:\csharp_int-master\bin\Debug\TrapInt.exe.config
+D:\csharp_int-master\bin\Debug\TrapInt.exe
+D:\csharp_int-master\bin\Debug\TrapInt.pdb
+D:\csharp_int-master\obj\Debug\TrapInt.Properties.Resources.resources
+D:\csharp_int-master\obj\Debug\ConsoleApp.csproj.GenerateResource.cache
+D:\csharp_int-master\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\csharp_int-master\obj\Debug\TrapInt.exe
+D:\csharp_int-master\obj\Debug\TrapInt.pdb
